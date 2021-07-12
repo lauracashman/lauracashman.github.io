@@ -1,17 +1,17 @@
 # Setup
-title:               Paris Flood
-tagline:             'As an Academic Website'
+title:               Laura Cashman
+tagline:             'Education and International Development'
 sidebar_text:        'Please <a href="/contact" title="Contact">reach out</a> if you ever feel the desire to do so!'
-url:                 https://parisflo.github.io
+url:                 https://lauracashman.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Paris Flood
-  twitter-username:  paris_flood
-  github-username:   parisflo
+  name:              Laura Cashman
+  twitter-username:  lauranichiosain
+  github-username:   lauracashman
 #  url:               
 # email:
 
